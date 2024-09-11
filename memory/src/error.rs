@@ -40,4 +40,6 @@ fn main() {
         Some(index) => println!("Element found at index: {}", index),
         None => println!("Element not found"),
     }
+
+
 }
